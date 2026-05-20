@@ -26,7 +26,7 @@
           
   ### 4. Ignoring Files
   *   [x] Create a `.gitignore` file.
-  *   [ ] Configure it to exclude unnecessary or sensitive files from being tracked.
+  *   [x] Configure it to exclude unnecessary or sensitive files from being tracked.
    
   ---
    

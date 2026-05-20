@@ -32,8 +32,8 @@
    
   ## 🔄 Task 2: Clone, Rename, and Re-Publish
    
-  1. [ ] **Clone** this repository to your computer: `https://github.com/Lexicon-Smaland/Hello-World.git`
-  2. [ ] **Change the remote connection** to point to your *own* GitHub account.
+  1. [x] **Clone** this repository to your computer: `https://github.com/Lexicon-Smaland/Hello-World.git`
+  2. [x] **Change the remote connection** to point to your *own* GitHub account.
   3. [ ] Make a small edit to any file.
   4. [ ] **Commit and push** the updated version to your own GitHub repository.
    

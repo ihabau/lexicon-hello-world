@@ -10,42 +10,41 @@
   
   ## 🏗️ Task 1: The Basics
   
-  [x] ### 1. Initialize a New Repository
-  [x] *   Create a new local Git repository for your project.
-  [x] *   Make your very first commit.
+  ### 1. Initialize a New Repository
+  *   [x] Create a new local Git repository for your project.
+  *   [x] Make your very first commit.
+          
+  ### 2. Connect to GitHub
+  *   [x] Create a new repository on GitHub.
+  *   [x] Link it to your local repository.
+          
+  ### 3. Track Changes
+  *   [x] Create and modify files.
+  *   [x] Stage and commit changes, and **push** them to GitHub.
+  *   [x] Create a few more files (e.g., `notes.txt`, `README.md`).
+  *   [x] Make several commits to practice **meaningful commit messages** and version tracking.
+          
+  ### 4. Ignoring Files
+  *   [x] Create a `.gitignore` file.
+  *   [x] Configure it to exclude unnecessary or sensitive files from being tracked.
    
-  [x] ### 2. Connect to GitHub
-  [x] *   Create a new repository on GitHub.
-  [x] *   Link it to your local repository.
+  ---
    
-  [x] ### 3. Track Changes
-  [x] *   Create and modify files.
-  [x] *   Stage and commit changes, and **push** them to GitHub.
-  [x] *   Create a few more files (e.g., `notes.txt`, `README.md`).
-  [x] *   Make several commits to practice **meaningful commit messages** and version tracking.
+  ## 🔄 Task 2: Clone, Rename, and Re-Publish
    
-  [x] ### 4. Ignoring Files
-  [x] *   Create a `.gitignore` file.
-  [ ] *   Configure it to exclude unnecessary or sensitive files from being tracked.
+  1. [x] **Clone** this repository to your computer: `https://github.com/Lexicon-Smaland/Hello-World.git`
+  2. [x] **Change the remote connection** to point to your *own* GitHub account.
+  3. [x] Make a small edit to any file.
+  4. [x] **Commit and push** the updated version to your own GitHub repository.
    
-   ---
+  ---
    
-  [ ] ## 🔄 Task 2: Clone, Rename, and Re-Publish
-   
-  [ ] 1.  **Clone** this repository to your computer:
-       `https://github.com/Lexicon-Smaland/Hello-World.git`
-  [ ] 2.  **Change the remote connection** to point to your *own* GitHub account.
-  [ ] 3.  Make a small edit to any file.
-  [ ] 4.  **Commit and push** the updated version to your own GitHub repository.
-   
-   ---
-   
-  [ ] ## 🚀 Task 3: Advanced Challenges (Optional)
-   
-  [ ] *   **🌿 Branching and Merging:** Create a new branch, make changes, commit, and merge it back into the `main` branch.
-  [ ] *   **🤝 Collaborating with Pull Requests:** Fork a classmate’s repository, make an improvement, and open a Pull Request (PR) to suggest your changes.
-  [ ] *   **⏮️ Revert and Reset:** Experiment with reverting or resetting commits to undo or move between versions.
-  [ ] *   **🏷️ Tagging and Releases:** Create and push tags to mark version releases of your project on GitHub.
+  ## 🚀 Task 3: Advanced Challenges (Optional)
+  
+  *  [x] 🌿 Branching and Merging:** Create a new branch, make changes, commit, and merge it back into the `main` branch.
+  *  [ ] 🤝 Collaborating with Pull Requests:** Fork a classmate’s repository, make an improvement, and open a Pull Request (PR) to suggest your changes.
+  *  [ ] ⏮️ Revert and Reset:** Experiment with reverting or resetting commits to undo or move between versions.
+  *  [ ] 🏷️ Tagging and Releases:** Create and push tags to mark version releases of your project on GitHub.
   
   ---
   

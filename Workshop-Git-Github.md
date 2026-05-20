@@ -10,23 +10,23 @@
   
   ## 🏗️ Task 1: The Basics
   
-  [x] ### 1. Initialize a New Repository
-  [x] *   Create a new local Git repository for your project.
-  [x] *   Make your very first commit.
-   
-  [x] ### 2. Connect to GitHub
-  [x] *   Create a new repository on GitHub.
-  [x] *   Link it to your local repository.
-   
-  [x] ### 3. Track Changes
-  [x] *   Create and modify files.
-  [x] *   Stage and commit changes, and **push** them to GitHub.
-  [x] *   Create a few more files (e.g., `notes.txt`, `README.md`).
-  [x] *   Make several commits to practice **meaningful commit messages** and version tracking.
-   
-  [x] ### 4. Ignoring Files
-  [x] *   Create a `.gitignore` file.
-  [ ] *   Configure it to exclude unnecessary or sensitive files from being tracked.
+[x]  ### 1. Initialize a New Repository
+[x]  *   Create a new local Git repository for your project.
+[x]  *   Make your very first commit.
+ 
+[x]  ### 2. Connect to GitHub
+[x]  *   Create a new repository on GitHub.
+[x]  *   Link it to your local repository.
+ 
+[x]  ### 3. Track Changes
+[x]  *   Create and modify files.
+[x]  *   Stage and commit changes, and **push** them to GitHub.
+[x]  *   Create a few more files (e.g., `notes.txt`, `README.md`).
+[x]  *   Make several commits to practice **meaningful commit messages** and version tracking.
+ 
+[x]  ### 4. Ignoring Files
+[x]  *   Create a `.gitignore` file.
+[ ]  *   Configure it to exclude unnecessary or sensitive files from being tracked.
    
   ---
    
